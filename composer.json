@@ -14,7 +14,7 @@
     "type":    "library",
     "license": "MIT",
     "require": {
-        "php": "^8.0",
+        "php": "^8.0|^8.1.10",
         "ext-curl": "*",
         "ext-json": "*",
         "arcanedev/php-html": "^6.0",
